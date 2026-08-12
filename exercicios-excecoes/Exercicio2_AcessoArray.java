@@ -3,13 +3,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * 2. Acesso a Posições de Array
- *
- * Cria um array fixo com 5 nomes de cidades e pede ao usuário um índice
- * de 0 a 4 para exibir a cidade correspondente, tratando índices
- * inválidos com ArrayIndexOutOfBoundsException.
- */
 public class Exercicio2_AcessoArray {
 
     public static void main(String[] args) {
