@@ -1,4 +1,3 @@
-// Jhonatan Carlos Rodrigues Queiroz
 
 import java.util.Scanner;
 
