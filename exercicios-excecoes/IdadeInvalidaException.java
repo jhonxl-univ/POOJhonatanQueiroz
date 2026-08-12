@@ -1,4 +1,3 @@
-// Jhonatan Carlos Rodrigues Queiroz
 
 public class IdadeInvalidaException extends RuntimeException {
 
