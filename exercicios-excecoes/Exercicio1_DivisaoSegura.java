@@ -3,14 +3,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * 1. Divisão Segura
- *
- * Lê dois números inteiros do usuário e tenta dividir o primeiro pelo
- * segundo, tratando divisão por zero (ArithmeticException) e entrada
- * inválida (InputMismatchException). O bloco finally sempre exibe a
- * mensagem "Fim da operação".
- */
 public class Exercicio1_DivisaoSegura {
 
     public static void main(String[] args) {
