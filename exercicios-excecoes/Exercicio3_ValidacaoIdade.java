@@ -3,13 +3,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * 3. Validação de Idade
- *
- * Pede a idade de uma pessoa e lança IdadeInvalidaException (exceção
- * personalizada, herdando de RuntimeException) caso a idade seja menor
- * que 0 ou maior que 150. A exceção é capturada no main.
- */
 public class Exercicio3_ValidacaoIdade {
 
     public static void validarIdade(int idade) {
