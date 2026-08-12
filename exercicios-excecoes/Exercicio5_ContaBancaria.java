@@ -1,11 +1,5 @@
 // Jhonatan Carlos Rodrigues Queiroz
 
-/**
- * 5. Cadastro de Conta Bancária
- *
- * Testa a classe ContaBancaria fazendo um saque válido e um saque que
- * estoura o saldo, tratando SaldoInsuficienteException.
- */
 public class Exercicio5_ContaBancaria {
 
     public static void main(String[] args) {
