@@ -2,13 +2,6 @@
 
 import java.util.Scanner;
 
-/**
- * 4. Conversor Numérico com Propagação (throws)
- *
- * O método converterParaInteiro propaga a NumberFormatException para
- * quem o chamou (usando "throws"), e o main trata o erro em um
- * bloco try-catch.
- */
 public class Exercicio4_ConversorNumerico {
 
     public static int converterParaInteiro(String texto) throws NumberFormatException {
