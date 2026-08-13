@@ -1,6 +1,6 @@
 # Lista de Exercícios sobre Exceções
 
-Aluno: Jhonatan Rodrigues 
+Aluno: Jhonatan Queiroz
 
 ## Exercícios
 
