@@ -61,4 +61,4 @@ no classpath (o Maven resolve isso automaticamente ao importar o projeto).
 
 ## Referência
 
-Material de apoio: Módulo 11 — Java Database Connectivity (Prof. Alessandro Cerqueira).
+Material de apoio: Módulo 11 — Java Database Connectivity (Prof. Alexandre Neves Louzada).
