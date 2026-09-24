@@ -63,4 +63,4 @@ decidir igualdade), o desempate é feito pelo código do produto.
 
 ## Referência
 
-Material de apoio: Módulo 10 — Tópicos em Coleções (Prof. Alessandro Cerqueira).
+Material de apoio: Módulo 10 — Tópicos em Coleções (Prof. Alexandre Neves Louzada).
